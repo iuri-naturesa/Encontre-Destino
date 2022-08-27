@@ -1,0 +1,107 @@
+.destinos-sao {
+  background-color: #ffd1d1;
+}
+.destinos-sal {
+  background-color: #fff3c9;
+}
+.destinos-foz {
+  background-color: #d7f9f3;
+}
+.destinos-for {
+  background-color: #ffd9c9;
+}
+.destinos-ara {
+  background-color: #f7ecff;
+}
+.destinos-man {
+  background-color: #e2ffd4;
+}
+.destinos-cap {
+  background-color: #ffecec;
+}
+.github {
+  background-color: #ecf0ff;
+}
+.destinos-sao img {
+  left: 18%;
+  width: 70%;
+  top: 50%;
+}
+.destinos-sal img {
+  width: 40%;
+  left: 30%;
+  top: 40%;
+}
+.destinos-foz img {
+  width: 65%;
+  left: 20%;
+  top: 48%;
+}
+.destinos-for img {
+  width: 55%;
+  left: 27%;
+  top: 35%;
+}
+.destinos-ara img {
+  width: 40%;
+  left: 30%;
+  top: 40%;
+}
+.destinos-man img {
+  width: 40%;
+  left: 30%;
+  top: 45%;
+}
+.destinos-cap img {
+  width: 40%;
+  left: 30%;
+  top: 47%;
+}
+.github img {
+  left: 33%;
+  width: 33%;
+  top: 48%;
+}
+@media (max-width: 700px) {
+  .destinos-sao img {
+    left: 22%;
+    width: 60%;
+    top: 45%;
+  }
+
+  .destinos-sal img {
+    width: 42%;
+    left: 30%;
+    top: 35%;
+  }
+  .destinos-foz img {
+    width: 45%;
+    left: 27%;
+    top: 45%;
+  }
+  .destinos-for img {
+    width: 28%;
+    left: 37%;
+    top: 45%;
+  }
+  .destinos-ara img {
+    width: 30%;
+    left: 35%;
+    top: 40%;
+  }
+  .destinos-man img {
+    width: 30%;
+    left: 35%;
+    top: 45%;
+  }
+  .destinos-cap img {
+    width: 35%;
+    left: 32%;
+    top: 42%;
+  }
+  .github img {
+    left: 35%;
+    width: 30%;
+    top: 38%;
+  }
+}
